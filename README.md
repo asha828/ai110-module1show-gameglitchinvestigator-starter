@@ -26,12 +26,16 @@ It wrote the code, ran away, and now the game is unplayable.
 ## 📝 Document Your Experience
 
 - [ ] Describe the game's purpose.
+To guess a secret number and give you the option of having hints and different difficulty levels.
 - [ ] Detail which bugs you found.
+The hints were mismatched and the secret number wasn't resetting properly when starting a new game.
 - [ ] Explain what fixes you applied.
+I fixed the output statments for the hints and set the range for the secret number as lo and hi instead of hardcoding numbers.
 
 ## 📸 Demo
 
 - [ ] [Insert a screenshot of your fixed, winning game here]
+![alt text](image.png)
 
 ## 🚀 Stretch Features
 
